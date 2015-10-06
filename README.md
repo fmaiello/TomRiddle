@@ -1,12 +1,9 @@
 # TomRiddle
-<!DOCTYPE>
+
     <html>
         <head>
         <meta name="viewport" content="width=device-width, minimum-scale=0.1">
         <title>Tommy Says HI</title>
-        </head>
-        <meta charset="utf-8">
-            <title>Tommy Says HI</title>
         </head>
         <body>
         <a href="http://makeagif.com/6ghWG6" title=""><img src="http://cdn.makeagif.com/media/10-06-2015/6ghWG6.gif" alt=""></a><div style="font-size:11px;">make <a href="http://makeagif.com" title="make a gif">animated gifs</a> like this at MakeaGif</div>
