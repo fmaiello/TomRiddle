@@ -3,10 +3,7 @@
     <html>
         <head>
         <meta name="viewport" content="width=device-width, minimum-scale=0.1">
-        <title>fmaiello_Project2.gif (679×800)</title>
-            <title>
-                TR Diary
-            </title>
+        <title>Tommy Says HI</title>
         </head>
         <meta charset="utf-8">
             <title>Tommy Says HI</title>
