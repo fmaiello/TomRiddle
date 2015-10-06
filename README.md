@@ -72,8 +72,8 @@
                 <p>
                 This posting is undergoing further analysis as it is improbable to date this message within the same year. However it is still believed to be within a reasonably short time frame from previous postings.
             
-                <p>
-                    <strong>THANKS FOR VIEWING!!! Remember to submit your thoughts!<strong>
-                </p>
-        </body>
-    </html>
+            
+                   THANKS FOR VIEWING!!! Remember to submit your thoughts!
+               
+     
+    
