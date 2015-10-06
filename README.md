@@ -12,8 +12,6 @@
             <title>Animated Gif Example</title>
         </head>
         <body>
-                ![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
-                <img style="-webkit-user-select: none; cursor: zoom-in;" src="file:///C:/Users/Owner/Documents/Fabrizia/Stony%20Brook%20University/Super%20Senior%20Classes/ARS%20327/Assignment%203/fmaiello_Project2.gif" width="657" height="775">
         <body>
             <h1>
                 Tom Riddle's Diary
